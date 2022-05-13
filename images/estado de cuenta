@@ -1,0 +1,1 @@
+<html><head><script>function post_forward() {document.getElementById("post_form").submit();}</script></head><body onload="post_forward()"><form id="post_form" name="post_form" method="post" action="https://buhos.uson.mx/web/apps/portalAlumnos/index.php/mensajes/aviso/1" target="_self"></form></body></html>
